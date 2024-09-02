@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [EliteStay enhanced version backend](https://github.com/Ismail-Lafhiel/EliteStay-v2-backend)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **MREN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ismail-Lafhiel?tab=repositories](https://github.com/Ismail-Lafhiel?tab=repositories)
 
