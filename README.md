@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ismail-Lafhiel?tab=repositories](https://github.com/Ismail-Lafhiel?tab=repositories)
 
-- 💬 Ask me about **laravel, vue**
+- 💬 Ask me about **Laravel, React**
 
 - 📫 How to reach me **lafhiel.ismail.contact@gmail.com**
 
