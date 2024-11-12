@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-lafhiel&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-lafhiel" /> </p>
 
-- 🔭 I’m currently working on [EliteStay enhanced version backend](https://github.com/Ismail-Lafhiel/EliteStay-v2-backend)
+- 🔭 I’m currently working on [EliteStay enhanced version backend](https://github.com/Nexus-Chat-app)
 
 - 🌱 I’m currently learning **MREN Stack**
 
